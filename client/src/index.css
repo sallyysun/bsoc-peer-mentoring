@@ -33,9 +33,9 @@ body {
 /* ================= GENERAL STYLES ==================== */
 
 .container {
+    padding-top: 3rem;
 	width: var(--container-width-lg);
 	margin: 0 auto;
-	display: flex;
     max-width: 90%;
 }
 
